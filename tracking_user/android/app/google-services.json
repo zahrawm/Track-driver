@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190845488059",
+    "project_id": "authentication-8182b",
+    "storage_bucket": "authentication-8182b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190845488059:android:918e894d5e4ae621fc929e",
+        "android_client_info": {
+          "package_name": "com.example.tracking_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8j6H0TKbpdbeP6WfU-fQxQDMfprlYN5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
